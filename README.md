@@ -23,8 +23,8 @@ A beautiful, responsive, and accessible calculator web app built as **Task 2** o
 
 ## 🔗 Live Demo & GitHub
 
-🔴 **Live Demo**: [your-live-demo-link-here](https://your-live-demo.com)  
-📁 **GitHub Repo**: [github.com/yourusername/skillcraft-calculator](https://github.com/yourusername/skillcraft-calculator)
+🔴 **Live Demo**: (https://arman-husain.github.io/SCT_WD_2/)  
+📁 **GitHub Repo**: (https://github.com/Arman-Husain/SCT_WD_2)
 
 ---
 
@@ -57,7 +57,6 @@ skillcraft-calculator/
 ├── index.html # Main HTML file
 ├── style.css # Styling (glass effect, layout)
 ├── script.js # Calculator logic
-├── screenshot.png # UI preview image
 └── README.md # Project documentation
 
 
@@ -74,7 +73,7 @@ skillcraft-calculator/
 
 **Arman Husain**  
 🎓 SkillCraft Internship – Task 2  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-link) 
+🔗 [LinkedIn](www.linkedin.com/in/arman-husain-6b5431345) 
 ---
 
 ## 🏷 Tags
